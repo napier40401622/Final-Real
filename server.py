@@ -113,7 +113,7 @@ def updatecountryByNamePage():
 		'country.html',
 		c = c)
 
-app.run(host='0.0.0.0', port=5619, debug=True)
+app.run(host='0.0.0.0', port=5622, debug=True)
 
 
 
