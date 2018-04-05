@@ -25,8 +25,15 @@ img.big {
 a{
 	text-decoration: none;
 }
-
+.gg{
+    border-style: solid 1px;
+}
 .nav_button{
     border:solid gray thin;
     bottom: auto;
+    padding: 1ex;
+    margin: 1ex;
+    border-radius: 0.5ex;
+    text-align: center;
+    display: inline-block;
     }
